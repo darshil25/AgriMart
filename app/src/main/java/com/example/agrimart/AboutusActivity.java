@@ -59,7 +59,7 @@ public class AboutusActivity extends AppCompatActivity {
 
 
     public void setButtonOpenURL1( )  {
-        String url="https://www.instagram.com/darshil__25/";
+        String url="https://www.instagram.com/darshil__25/"
 
 
         Intent intent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
