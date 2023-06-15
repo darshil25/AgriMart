@@ -10,4 +10,4 @@ Agri Mart is a user-friendly Java application for farmers and retail buyers to d
 * Track orders and sales
 
 # Technology
-The Agri Mart application is built using Java and Flutter. The Java backend uses the Spring Framework and Hibernate for data persistence, and the Flutter frontend uses the Flutter SDK for building mobile applications.
+The Agri Mart application is built using Java and Flutter. The Java backend uses the Spring Framework and Hibernate for data persistence, and the Flutter frontend uses the Flutter SDK for building mobile applications
